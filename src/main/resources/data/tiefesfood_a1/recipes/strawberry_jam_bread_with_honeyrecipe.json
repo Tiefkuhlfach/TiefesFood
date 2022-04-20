@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tiefesfood_a1:jam_bread"
+        },
+        {
+            "item": "minecraft:honey_bottle"
+        }
+    ],
+    "result": {
+        "item": "tiefesfood_a1:strawberry_jam_bread_with_honey",
+        "count": 1
+    },
+    "group": "strawberry_jam_bread_with_honey"
+}

@@ -1,0 +1,36 @@
+{
+  "item.tiefesfood_a1.donut": "Donut",
+  "item.tiefesfood_a1.jam": "Jam",
+  "item.tiefesfood_a1.jam_bread": "Jam Toast",
+  "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "Strawberry Jam Bread With Honey",
+  "item.tiefesfood_a1.cereals": "Cereals",
+  "item.tiefesfood_a1.chicken_nugget": "Chicken Nugget",
+  "item.tiefesfood_a1.salt": "Salt",
+  "item.tiefesfood_a1.pickle": "Pickle",
+  "item.tiefesfood_a1.chorus_pickle": "Chorus Pickle",
+
+
+  "item.tiefesfood_a1.milk_bottle.effect.empty": "Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.water": "Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.mundane": "Mundane Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.thick": "Thick Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.awkward": "Awkward Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.night_vision": "Night Vision Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.invisibility": "Invisibility Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.leaping": "Leaping Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "Fire Resistance Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.swiftness": "Swiftness Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.slowness": "Slowness Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "Turtle Master Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "Water Breathing Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.healing": "Healing Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.harming": "Harming Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.poison": "Poison Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.regeneration": "Regeneration Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.strength": "Strength Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.weakness": "Weakness Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.luck": "Luck Milk Bottle",
+  "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "Slow Falling Milk Bottle",
+
+  "itemGroup.Tiefes Food": "Tiefes Food"
+}

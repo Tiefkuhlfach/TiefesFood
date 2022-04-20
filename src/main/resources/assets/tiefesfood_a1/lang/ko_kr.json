@@ -1,0 +1,36 @@
+{
+  "item.tiefesfood_a1.donut": "도넛",
+  "item.tiefesfood_a1.jam": "잼",
+  "item.tiefesfood_a1.jam_bread": "잼 토스트",
+  "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "꿀을 곁들인 딸기 잼 빵",
+  "item.tiefesfood_a1.cereals": "시리얼",
+  "item.tiefesfood_a1.chicken_nugget": "치킨 너겟",
+  "item.tiefesfood_a1.salt": "소금",
+  "item.tiefesfood_a1.pickle": "간물",
+  "item.tiefesfood_a1.chorus_pickle": "Chorus 간물",
+
+
+  "item.tiefesfood_a1.milk_bottle.effect.empty": "우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.water": "우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.mundane": "평범한 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.thick": "두꺼운 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.awkward": "어색한 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.night_vision": "나이트 비전 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.invisibility": "투명 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.leaping": "뛰어오르는 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "내화성 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.swiftness": "스위프트니스 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.slowness": "느림보 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "거북이 마스터 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "물 호흡 우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.healing": "힐링 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.harming": "해밍 우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.poison": "독 우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.regeneration": "재생 우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.strength": "강도 우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.weakness": "약점 우유 병",
+  "item.tiefesfood_a1.milk_bottle.effect.luck": "행운의 우유병",
+  "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "천천히 떨어지는 우유병",
+
+  "itemGroup.Tiefes Food": "Tiefes Food"
+}

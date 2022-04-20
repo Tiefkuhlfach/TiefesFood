@@ -1,0 +1,36 @@
+{
+  "item.tiefesfood_a1.donut": "Donut",
+  "item.tiefesfood_a1.jam": "Geléia",
+  "item.tiefesfood_a1.jam_bread": "Torradas de geléia",
+  "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "Pão de compota de morango commel",
+  "item.tiefesfood_a1.cereals": "Cereais",
+  "item.tiefesfood_a1.chicken_nugget": "Chicken Nugget",
+  "item.tiefesfood_a1.salt": "Sal",
+  "item.tiefesfood_a1.pickle": "Pickle",
+  "item.tiefesfood_a1.chorus_pickle": "Chorus Pickle",
+
+
+  "item.tiefesfood_a1.milk_bottle.effect.empty": "Garrafa de leite",
+  "item.tiefesfood_a1.milk_bottle.effect.water": "Garrafa de leite",
+  "item.tiefesfood_a1.milk_bottle.effect.mundane": "Garrafa de leite Mundane",
+  "item.tiefesfood_a1.milk_bottle.effect.thick": "Garrafa de leite espessa",
+  "item.tiefesfood_a1.milk_bottle.effect.awkward": "Garrafa de Leite Embaraçada",
+  "item.tiefesfood_a1.milk_bottle.effect.night_vision": "Garrafa de leite com visão noturna",
+  "item.tiefesfood_a1.milk_bottle.effect.invisibility": "Invisibilidade Garrafa de leite",
+  "item.tiefesfood_a1.milk_bottle.effect.leaping": "Garrafa de leite saltadora",
+  "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "Garrafa de Leite Resistente ao Fogo",
+  "item.tiefesfood_a1.milk_bottle.effect.swiftness": "Garrafa de leite rápida",
+  "item.tiefesfood_a1.milk_bottle.effect.slowness": "Lentidão Garrafa de leite",
+  "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "Garrafa de Leite Master Turtle",
+  "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "Garrafa de leite que respira água",
+  "item.tiefesfood_a1.milk_bottle.effect.healing": "Garrafa de leite de cura",
+  "item.tiefesfood_a1.milk_bottle.effect.harming": "Garrafa de leite nociva",
+  "item.tiefesfood_a1.milk_bottle.effect.poison": "Garrafa de Leite Venenoso",
+  "item.tiefesfood_a1.milk_bottle.effect.regeneration": "Garrafa de leite de regeneração",
+  "item.tiefesfood_a1.milk_bottle.effect.strength": "Força Garrafa de leite",
+  "item.tiefesfood_a1.milk_bottle.effect.weakness": "Fraqueza da garrafa de leite",
+  "item.tiefesfood_a1.milk_bottle.effect.luck": "Garrafa de leite da sorte",
+  "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "Garrafa de leite de queda lenta",
+
+  "itemGroup.Tiefes Food": "Tiefes Food"
+}

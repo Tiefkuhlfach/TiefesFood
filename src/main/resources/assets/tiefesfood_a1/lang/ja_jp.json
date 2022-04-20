@@ -1,0 +1,36 @@
+{
+  "item.tiefesfood_a1.donut": "ドーナツ",
+  "item.tiefesfood_a1.jam": "ジャム",
+  "item.tiefesfood_a1.jam_bread": "ジャムトースト",
+  "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "いちごジャムパン（はちみつ入り",
+  "item.tiefesfood_a1.cereals": "シリアル",
+  "item.tiefesfood_a1.chicken_nugget": "チキンナゲット",
+  "item.tiefesfood_a1.salt": "塩",
+  "item.tiefesfood_a1.pickle": "ピクルス",
+  "item.tiefesfood_a1.chorus_pickle": "Chorus ピクルス",
+
+
+  "item.tiefesfood_a1.milk_bottle.effect.empty": "ミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.water": "ミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.mundane": "一般的なミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.thick": "厚手のミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.awkward": "不器用なミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.night_vision": "ナイトビジョンミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.invisibility": "インビジブルミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.leaping": "リーピングミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "耐火ミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.swiftness": "スウィフトネス ミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.slowness": "低速度用ミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "タートルマスターミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "ウォーターブリージングミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.healing": "ヒーリングミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.harming": "ハーミングミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.poison": "ポイズンミルクボトル」。",
+  "item.tiefesfood_a1.milk_bottle.effect.regeneration": "リジェネレーションミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.strength": "ストレングス ミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.weakness": "弱虫ミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.luck": "幸運のミルクボトル",
+  "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "スローフォールディングミルクボトル",
+
+  "itemGroup.Tiefes Food": "Tiefes Food"
+}

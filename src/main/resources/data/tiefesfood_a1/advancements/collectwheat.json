@@ -1,0 +1,27 @@
+{
+
+    "criteria": {
+        "collectberries": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:wheat",
+                        "count": {
+                            "min": 1,
+                            "max": 10000
+                        }
+                    }
+                ]
+            }
+        }
+        },
+    "rewards": {
+        "recipes": [
+            "tiefesfood_a1:donutrecipe",
+            "tiefesfood_a1:cerealsrecipe",
+            "tiefesfood_a1:chicken_nuggetrecipe"
+
+        ]
+    }
+}

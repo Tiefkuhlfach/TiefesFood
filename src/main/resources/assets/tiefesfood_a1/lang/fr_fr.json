@@ -1,0 +1,36 @@
+{
+  "item.tiefesfood_a1.donut": "Donut",
+  "item.tiefesfood_a1.jam": "Confiture",
+  "item.tiefesfood_a1.jam_bread": "Pain grillé à la confiture",
+  "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "Pain Confiture Fraise Au Miel",
+  "item.tiefesfood_a1.cereals": "Céréales",
+  "item.tiefesfood_a1.chicken_nugget": "Nugget de poulet",
+  "item.tiefesfood_a1.salt": "Sel",
+  "item.tiefesfood_a1.pickle": "Cornichon",
+  "item.tiefesfood_a1.chorus_pickle": "Chorus Cornichon",
+
+
+  "item.tiefesfood_a1.milk_bottle.effect.empty": "Bouteille de lait",
+  "item.tiefesfood_a1.milk_bottle.effect.water": "Bouteille de lait",
+  "item.tiefesfood_a1.milk_bottle.effect.mundane": "Bouteille de lait ordinaire",
+  "item.tiefesfood_a1.milk_bottle.effect.thick": "Bouteille de lait épaisse",
+  "item.tiefesfood_a1.milk_bottle.effect.awkward": "Bouteille de lait maladroite",
+  "item.tiefesfood_a1.milk_bottle.effect.night_vision": "Bouteille de lait de vision nocturne",
+  "item.tiefesfood_a1.milk_bottle.effect.invisibility": "Bouteille de lait d'invisibilité",
+  "item.tiefesfood_a1.milk_bottle.effect.leaping": "Bouteille de lait bondissante",
+  "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "Bouteille de lait résistante au feu",
+  "item.tiefesfood_a1.milk_bottle.effect.swiftness": "Bouteille de lait Rapidité",
+  "item.tiefesfood_a1.milk_bottle.effect.slowness": "Bouteille de lait lenteur",
+  "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "Bouteille de lait Turtle Master",
+  "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "Bouteille de lait respiratoire à l'eau",
+  "item.tiefesfood_a1.milk_bottle.effect.healing": "Bouteille de lait de guérison",
+  "item.tiefesfood_a1.milk_bottle.effect.harming": "Bouteille de lait nuisible",
+  "item.tiefesfood_a1.milk_bottle.effect.poison": "Bouteille de lait empoisonnée",
+  "item.tiefesfood_a1.milk_bottle.effect.regeneration": "Bouteille de lait de régénération",
+  "item.tiefesfood_a1.milk_bottle.effect.strength": "Bouteille de lait de force",
+  "item.tiefesfood_a1.milk_bottle.effect.weakness": "Bouteille de lait de faiblesse",
+  "item.tiefesfood_a1.milk_bottle.effect.luck": "Bouteille de lait de la chance",
+  "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "Bouteille de lait à chute lente",
+
+  "itemGroup.Tiefes Food": "Tiefes Food"
+}

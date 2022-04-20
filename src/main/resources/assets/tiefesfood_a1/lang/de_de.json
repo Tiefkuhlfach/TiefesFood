@@ -1,0 +1,36 @@
+{
+    "item.tiefesfood_a1.donut": "Donut",
+    "item.tiefesfood_a1.jam": "Marmelade",
+    "item.tiefesfood_a1.jam_bread": "Marmeladen Toast",
+    "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "Erdbeermarmeladenbrot mit Honig",
+    "item.tiefesfood_a1.cereals": "Müsli",
+    "item.tiefesfood_a1.chicken_nugget": "Chicken Nugget",
+    "item.tiefesfood_a1.salt": "Salz",
+    "item.tiefesfood_a1.pickle": "Essiggurke",
+    "item.tiefesfood_a1.chorus_pickle": "Chorus Gurke",
+
+
+    "item.tiefesfood_a1.milk_bottle.effect.empty": "Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.water": "Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.mundane": "Gewöhnliche Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.thick": "Dickflüssige Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.awkward": "Seltsame Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.night_vision": "Nachtsichts Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.invisibility": "Unsichtbarkeits Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.leaping": "Sprungkrafts Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "Feuer Resistenz Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.swiftness": "Schnelligkeits Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.slowness": "Langsamkeits Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "Schildkrötenmeister Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "Unterwasseratmungs Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.healing": "Heilungs Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.harming": "Schadens Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.poison": "Vergiftungs Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.regeneration": "Regenerations Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.strength": "Stärke Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.weakness": "Schwäche Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.luck": "Glücks Milchflasche",
+    "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "Sanfter Fall Milchflasche",
+
+    "itemGroup.Tiefes Food": "Tiefes Food"
+}

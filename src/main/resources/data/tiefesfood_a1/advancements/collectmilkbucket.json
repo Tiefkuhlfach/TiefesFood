@@ -1,0 +1,25 @@
+{
+
+    "criteria": {
+        "collectberries": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:milk_bucket",
+                        "count": {
+                            "min": 1,
+                            "max": 10000
+                        }
+                    }
+                ]
+            }
+        }
+        },
+    "rewards": {
+        "recipes": [
+            "tiefesfood_a1:milk_bottlerecipe"
+
+        ]
+    }
+}

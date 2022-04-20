@@ -1,0 +1,36 @@
+{
+  "item.tiefesfood_a1.donut": "Пончик",
+  "item.tiefesfood_a1.jam": "Джем",
+  "item.tiefesfood_a1.jam_bread": "Тост с джемом",
+  "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "Хлеб с клубничным джемом и медом",
+  "item.tiefesfood_a1.cereals": "Зерновые",
+  "item.tiefesfood_a1.chicken_nugget": "Куриный наггетс",
+  "item.tiefesfood_a1.salt": "Соль",
+  "item.tiefesfood_a1.pickle": "Маринованный огурчик",
+  "item.tiefesfood_a1.chorus_pickle": "Chorus Маринованный огурчик",
+
+
+  "item.tiefesfood_a1.milk_bottle.effect.empty": "Бутылка для молока",
+  "item.tiefesfood_a1.milk_bottle.effect.water": "Бутылка для молока",
+  "item.tiefesfood_a1.milk_bottle.effect.mundane": "Обычная бутылка для молока",
+  "item.tiefesfood_a1.milk_bottle.effect.thick": "Толстая бутылка для молока",
+  "item.tiefesfood_a1.milk_bottle.effect.awkward": "Неловкая бутылка для молока",
+  "item.tiefesfood_a1.milk_bottle.effect.night_vision": "Бутылка для молока с ночным видением",
+  "item.tiefesfood_a1.milk_bottle.effect.invisibility": "Бутылка для молока с невидимостью",
+  "item.tiefesfood_a1.milk_bottle.effect.leaping": "Прыгающая бутылка для молока",
+  "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "Огнеупорность молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.swiftness": "Стремительность Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.slowness": "Медленность Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "Черепаший мастер Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "Дыхание водой Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.healing": "Бутылка с молоком для исцеления",
+  "item.tiefesfood_a1.milk_bottle.effect.harming": "Вредная бутылка для молока",
+  "item.tiefesfood_a1.milk_bottle.effect.poison": "Ядовитая молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.regeneration": "Регенерация Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.strength": "Сила Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.weakness": "Слабость Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.luck": "Удача Молочная бутылка",
+  "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "Медленное падение Молочная бутылка",
+
+  "itemGroup.Tiefes Food": "Tiefes Food"
+}

@@ -1,0 +1,26 @@
+{
+
+    "criteria": {
+        "collectberries": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:sweet_berries",
+                        "count": {
+                            "min": 1,
+                            "max": 10000
+                        }
+                    }
+                ]
+            }
+        }
+        },
+    "rewards": {
+        "recipes": [
+            "tiefesfood_a1:jamrecipe",
+            "tiefesfood_a1:jam_breadrecipe",
+            "tiefesfood_a1:strawberry_jam_bread_with_honeyrecipe"
+        ]
+    }
+}

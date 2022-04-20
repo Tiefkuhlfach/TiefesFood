@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:cooked_chicken"
+        },
+        {
+            "item": "minecraft:bread"
+        }
+    ],
+    "result": {
+        "item": "tiefesfood_a1:chicken_nugget",
+        "count": 4
+    },
+    "group": "chicken_nugget"
+}

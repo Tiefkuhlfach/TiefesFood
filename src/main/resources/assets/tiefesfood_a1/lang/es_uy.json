@@ -1,0 +1,36 @@
+{
+    "item.tiefesfood_a1.donut": "Rosquilla",
+    "item.tiefesfood_a1.jam": "Mermelada",
+    "item.tiefesfood_a1.jam_bread": "Tostadas de mermelada",
+    "item.tiefesfood_a1.strawberry_jam_bread_with_honey": "Pan De Mermelada De Fresa Con Miel",
+    "item.tiefesfood_a1.cereals": "Cereales",
+    "item.tiefesfood_a1.chicken_nugget": "Nugget de pollo",
+    "item.tiefesfood_a1.salt": "Sal",
+    "item.tiefesfood_a1.pickle": "Pepinillo",
+    "item.tiefesfood_a1.chorus_pickle": "Chorus_Pepinillo",
+
+
+    "item.tiefesfood_a1.milk_bottle.effect.empty": "Botella de leche",
+    "item.tiefesfood_a1.milk_bottle.effect.water": "Botella de leche",
+    "item.tiefesfood_a1.milk_bottle.effect.mundane": "Botella de leche mundana",
+    "item.tiefesfood_a1.milk_bottle.effect.thick": "Botella de leche gruesa",
+    "item.tiefesfood_a1.milk_bottle.effect.awkward": "Botella de leche incómoda",
+    "item.tiefesfood_a1.milk_bottle.effect.night_vision": "Botella de leche de visión nocturna",
+    "item.tiefesfood_a1.milk_bottle.effect.invisibility": "Botella de leche de invisibilidad",
+    "item.tiefesfood_a1.milk_bottle.effect.leaping": "Botella de leche saltando",
+    "item.tiefesfood_a1.milk_bottle.effect.fire_resistance": "Botella de leche resistente al fuego",
+    "item.tiefesfood_a1.milk_bottle.effect.swiftness": "Botella de leche Swiftness",
+    "item.tiefesfood_a1.milk_bottle.effect.slowness": "Botella de leche de lentitud",
+    "item.tiefesfood_a1.milk_bottle.effect.turtle_master": "Botella de leche Turtle Master",
+    "item.tiefesfood_a1.milk_bottle.effect.water_breathing": "Botella de leche para respirar agua",
+    "item.tiefesfood_a1.milk_bottle.effect.healing": "Botella de leche curativa",
+    "item.tiefesfood_a1.milk_bottle.effect.harming": "Botella de leche dañina",
+    "item.tiefesfood_a1.milk_bottle.effect.poison": "Botella de leche venenosa",
+    "item.tiefesfood_a1.milk_bottle.effect.regeneration": "Botella de leche de regeneración",
+    "item.tiefesfood_a1.milk_bottle.effect.strength": "Botella de leche de fuerza",
+    "item.tiefesfood_a1.milk_bottle.effect.weakness": "Botella de leche de regeneración",
+    "item.tiefesfood_a1.milk_bottle.effect.luck": "Botella de leche de la suerte",
+    "item.tiefesfood_a1.milk_bottle.effect.slow_falling": "Botella de leche de caída lenta",
+
+    "itemGroup.Tiefes Food": "Tiefes Food"
+}

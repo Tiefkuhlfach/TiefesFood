@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tiefesfood_a1:jam"
+        },
+        {
+            "item": "minecraft:bread"
+        }
+    ],
+    "result": {
+        "item": "tiefesfood_a1:jam_bread",
+        "count": 2
+    },
+    "group": "jam_bread"
+}

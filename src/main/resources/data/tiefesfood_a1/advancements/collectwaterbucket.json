@@ -1,0 +1,29 @@
+{
+
+    "criteria": {
+        "collectberries": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:water_bucket",
+                        "count": {
+                            "min": 1,
+                            "max": 10000
+                        }
+                    }
+                ]
+            }
+        }
+        },
+    "rewards": {
+        "recipes": [
+            "tiefesfood_a1:chorus_picklesmithing",
+            "tiefesfood_a1:saltsmelting",
+            "tiefesfood_a1:saltsmoking",
+            "tiefesfood_a1:saltblasting",
+            "tiefesfood_a1:picklerecipe"
+
+        ]
+    }
+}

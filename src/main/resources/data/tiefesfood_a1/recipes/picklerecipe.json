@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tiefesfood_a1:salt"
+        },
+        {
+            "item": "minecraft:sea_pickle"
+        }
+    ],
+    "result": {
+        "item": "tiefesfood_a1:pickle",
+        "count": 1
+    },
+    "group": "pickle"
+}

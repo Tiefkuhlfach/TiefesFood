@@ -1,0 +1,79 @@
+
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Tiefkuhlfach"
+
+[[mods]]
+modId="tiefesfood_a1"
+version="1.16.5-1.0"
+displayName="Tiefes Food"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/tiefes-food"
+logoFile="tiefesfoodlogo-export.png"
+credits='''
+Credits to:
+Stelph for Translating the Mod to Spanisch and German
+Tiefkuhlfach for Programming, Idea and Translating
+'''
+authors="Tiefkuhlfach"
+description='''
+Items:
+Milk Bottle (tiefesfood_a1:milk_bottle)(drinkable, max Stacksize: 1)
+Cereals (tiefesfood_a1:cereals)(nutition: 4, max Stacksize: 16)
+Donut (tiefesfood_a1:donut)(nutition: 3, max Stacksize: 64)
+Chicken Nugget (tiefesfood_a1:chicken_nugget)(nutition: 3, max Stacksize: 64)
+Jam (tiefesfood_a1:jam)(not edible, max Stacksize: 16)
+Jam Toast (tiefesfood_a1:jam_bread)(nutition: 6, max Stcksize: 64)
+Strawberry Jam Bread with Honey (tiefesfood_a1:strawberry_jam_bread_with_honey)(nutition: 6, max Stcksize: 64)
+Salt (tiefesfood_a1:salt)(not edible, max Stacksize: 64)
+Pickle (tiefesfood_a1:pickle)(nutition: 6, max Stacksize: 64)
+Chorus Pickle (tiefesfood_a1:chorus_pickle)(nutition: 6,effect Levitation(100gt, 2) max Stcksize: 64)
+
+Crafting:
+The Craftingrecipes are obtainable by:
+A. Collecting Sweet Berries (Jam, Jam Toast, Strawberry Jam Bread with Honey)
+B. Collecting a Water Bucket (Salt, Pickle, Chorus Pickle)
+C. Collecting Wheat (Donut, Chicken Nugget, Cereals)
+D. Collecting a Milk Bucket (Milk Bottle)
+
+Languages:
+The Mod is translated into folowing Languages:
+-De(De)
+-En(Au)
+-En(Ca)
+-En(GB)
+-En(Nz)
+-En(US)
+-Es(Ar)
+-Es(Cl)
+-Es(Ec)
+-Es(Es)
+-Es(Mx)
+-Es(Uy)
+-Es(Ve)
+-Fr(Ca)
+-Fr(Fr)
+-It(It)
+-Ja(Jp)
+-Ko(Kr)
+-Pt(Br)
+-Pt(Pt)
+-Ru(Ru)
+We didn't pay attention to variants of a language, which means e.g. all Spanish languages are based on the Es(Es) version. I do not certify accuracy, feedback/help is very welcome.
+
+History:
+So me and some Friends wanted to make a Server with Mods, but we couldn't find a good Food Mod. So i decided to make one, 'cause i really wanted one so have more things to craft with the create mod, i also thought it would be funny to include jokes, like the Pickle(which is way to expensive)
+'''
+
+[[dependencies.tiefesfood_a1]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.tiefesfood_a1]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

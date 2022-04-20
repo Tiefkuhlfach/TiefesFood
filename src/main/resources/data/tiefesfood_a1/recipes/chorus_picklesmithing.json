@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "tiefesfood_a1:pickle"
+    },
+    "addition": {
+        "item": "minecraft:chorus_fruit"
+    },
+    "result": {
+        "item": "tiefesfood_a1:chorus_pickle"
+    }
+}
